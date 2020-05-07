@@ -4,6 +4,6 @@ div {
     align-items: center;
 }
 
-div:not(:last-child) {
-    margin-bottom: 24px;
+div:not(:first-child) {
+    margin-top: 24px;
 }
